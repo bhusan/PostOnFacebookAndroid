@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Famousenuf</string>
+
+    <string name="DATABASE_VERSION">1</string>
+    <string name="facebook_app_id">210963112632537</string>
+</resources>
